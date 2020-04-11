@@ -34,3 +34,7 @@
 # База данных 
 
 ![](db/db.png)
+
+# Diagrams 
+
+![](diagrams/requests-processing.png)
